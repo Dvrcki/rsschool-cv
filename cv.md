@@ -43,3 +43,7 @@
       background-color: chocolate;
     }  
 ```
+6. **Experience**<br/>All my experience is based on  [Codeacademy](https://www.codecademy.com/)  
+7. **Education**<br/>My specialty: техник-программист
+8. **English**<br/>I learn English myself from Duolingo, Lingualeo.
+
